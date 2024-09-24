@@ -5,7 +5,7 @@ Este desafio tem como objetivo confirmar as habilidades técnicas e os padrões 
 
 Descrição do Desafio
 
-	1.	Desenvolvimento de Aplicativo
+1 - Desenvolvimento de Aplicativo
 	•	Crie um aplicativo com uma tela que contenha um formulário com os seguintes campos:
 	•	Nome
 	•	E-mail
@@ -35,6 +35,10 @@ Meus contatos:
 - Telefone: ${telefone}
 
 _______________________________________________________________________________________________________________
-4 - O Projeto deverá ser feito em React Native - TS. Obs. Pode usar Expo e validar o formulário por meio do Yup
+2 - O candidato deverá criar uma branch e solicitar um pull request para a main
+
+3 - O Tempo para conclusão do Desafio é de 7 dias, a partir da confirmação do envio do e-mail
+
+4 - O Projeto deverá ser feito em React Native - TS. Obs. Pode usar Expo
 
 5 - Bom desafio
