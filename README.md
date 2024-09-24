@@ -1,37 +1,40 @@
 # desafioForm
-Este desafio tem como objetivo confirmar as habilidades e padrões de programação do candidato.
+Desafio de React Native para Estágio Não Remunerado
 
-Consiste em:
+Este desafio tem como objetivo confirmar as habilidades técnicas e os padrões de programação do candidato para uma vaga de estágio não remunerado.
 
-1 - Elaborar um projeto com as seguintes especificações:
-- Fazer um app com uma tela que tenha um formulário com os seguintes campos: `nome`, `e-mail`, `endereço`, `data de nascimento`, `telefone` e `aceite de termos`
-- Modelo na imagem seguinte
+Descrição do Desafio
+
+	1.	Desenvolvimento de Aplicativo
+	•	Crie um aplicativo com uma tela que contenha um formulário com os seguintes campos:
+	•	Nome
+	•	E-mail
+	•	Endereço
+	•	Data de Nascimento
+	•	Telefone
+	•	Aceite de Termos
+	•	Utilize o modelo apresentado na imagem abaixo como referência:
 ![image](https://github.com/Criative-Inc/desafioForm/assets/3332972/fa9c60fc-71f7-4de9-9013-67b82b865ef9)
 
 
-- Ao evento de submit do formulário deverá validar os campos (todos serão obrigatórios),  mostrar na tela um pdf com o seguinte texto
+•	Ao submeter o formulário, todos os campos devem ser validados (todos são obrigatórios). Em seguida, exiba na tela um PDF com o seguinte conteúdo:
 ________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________
+
 DECLARAÇÃO
 
-Eu me chamo ${name}, 
+Eu me chamo ${nome},
 
-tenho ${age} anos.
+tenho ${idade} anos.
 
-Moro no seguinte endereço ${address}.
+Moro no seguinte endereço: ${endereço}.
 
 Meus contatos:
 
-email: ${email}
-
-Telefone: ${phone}
-
+- E-mail: ${email}
+- Telefone: ${telefone}
 
 _______________________________________________________________________________________________________________
-
-2 - O candidato deverá criar uma branch e solicitar um pull request para a `main`
-
-3 - A data limite para entrega do Desafio é dia 19/06, a partir da confirmação do envio do e-mail
-
 4 - O Projeto deverá ser feito em React Native - TS. Obs. Pode usar Expo e validar o formulário por meio do Yup
 
 5 - Bom desafio
