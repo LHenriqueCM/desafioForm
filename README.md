@@ -1,5 +1,5 @@
 # desafioForm
-Desafio de React Native para Estágio Não Remunerado
+Desafio de React Native para Estágio Não Remunerado de 100 horas ou 150 horas.
 
 Este desafio tem como objetivo confirmar as habilidades técnicas e os padrões de programação do candidato para uma vaga de estágio não remunerado.
 
